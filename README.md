@@ -19,7 +19,7 @@ This Financial Filtering App is a user-friendly tool designed to help users anal
     <li>App is responsive and mobile friendly
 </ol>
 
-## [Click here to review](https://movie-reviews-app-9dd1875b7f4b.herokuapp.com/) 👈🏼
+## [Click here to review](https://financialfilter.netlify.app) 👈🏼
 
 
 ## Libraries Used👨🏻‍💻
